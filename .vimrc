@@ -32,7 +32,7 @@ Plugin 'vim-airline/vim-airline-themes'
 Plugin 'L9'
 
 " Git plugin not hosted on GitHub
-Plugin 'git://git.wincent.com/command-t.git'
+Plugin 'Command-T'
 Plugin 'https://github.com/Raimondi/delimitMate'
 
 " Git repos on local machine (working on my own plugin)
